@@ -1,0 +1,8 @@
+com\onthego\sugestaocidades\SugestaoDestinos\entity\Attraction.class
+com\onthego\sugestaocidades\SugestaoDestinos\entity\City.class
+com\onthego\sugestaocidades\SugestaoDestinos\repository\CityRepository.class
+com\onthego\sugestaocidades\SugestaoDestinos\service\CityService.class
+com\onthego\sugestaocidades\SugestaoDestinos\controller\CityController.class
+com\onthego\sugestaocidades\SugestaoDestinos\config\CorsConfig$1.class
+com\onthego\sugestaocidades\SugestaoDestinos\SugestaoDestinosApplication.class
+com\onthego\sugestaocidades\SugestaoDestinos\config\CorsConfig.class
